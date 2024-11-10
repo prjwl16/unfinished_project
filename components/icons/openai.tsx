@@ -1,0 +1,130 @@
+export default function OpenAI() {
+  return (
+    <svg
+      xmlns="http://www.w3.org/2000/svg"
+      width="159"
+      height="72"
+      fill="none"
+      viewBox="0 0 159 72"
+    >
+      <g filter="url(#filter0_b_700_21796)">
+        <rect
+          width="158.4"
+          height="71.2"
+          fill="url(#paint0_linear_700_21796)"
+          fillOpacity="0.1"
+          rx="12.8"
+        ></rect>
+        <rect
+          width="157.28"
+          height="70.08"
+          x="0.56"
+          y="0.56"
+          stroke="#fff"
+          strokeOpacity="0.1"
+          strokeWidth="1.12"
+          rx="12.24"
+        ></rect>
+      </g>
+      <g filter="url(#filter1_b_700_21796)">
+        <rect
+          width="145.6"
+          height="58.4"
+          x="6.4"
+          y="6.8"
+          fill="url(#paint1_linear_700_21796)"
+          fillOpacity="0.1"
+          rx="6.4"
+        ></rect>
+        <rect
+          width="144.48"
+          height="57.28"
+          x="6.96"
+          y="7.36"
+          stroke="#fff"
+          strokeOpacity="0.1"
+          strokeWidth="1.12"
+          rx="5.84"
+        ></rect>
+      </g>
+      <path
+        fill="#fff"
+        d="M56.906 32.764c.61-1.83.4-3.835-.575-5.5a6.773 6.773 0 00-7.295-3.25 6.7 6.7 0 00-5.051-2.251 6.774 6.774 0 00-6.46 4.689 6.7 6.7 0 00-4.479 3.248 6.775 6.775 0 00.833 7.942c-.61 1.83-.4 3.835.576 5.5a6.773 6.773 0 007.295 3.25 6.694 6.694 0 005.05 2.25 6.774 6.774 0 006.464-4.692 6.7 6.7 0 004.478-3.248 6.775 6.775 0 00-.835-7.94l-.001.002zM46.802 46.886a5.02 5.02 0 01-3.225-1.166c.042-.022.113-.061.16-.09l5.352-3.091a.87.87 0 00.44-.762v-7.546l2.262 1.306a.08.08 0 01.044.063v6.248a5.044 5.044 0 01-5.033 5.038zM35.98 42.263a5.016 5.016 0 01-.601-3.375c.04.024.11.067.159.095l5.352 3.092a.872.872 0 00.88 0l6.534-3.774v2.612a.084.084 0 01-.032.07l-5.41 3.124a5.043 5.043 0 01-6.882-1.843zM34.57 30.58a5.021 5.021 0 012.623-2.209l-.003.185v6.183a.87.87 0 00.44.762l6.534 3.772-2.262 1.306a.08.08 0 01-.077.007l-5.411-3.127a5.043 5.043 0 01-1.844-6.879zm18.587 4.325l-6.534-3.774 2.262-1.305a.08.08 0 01.076-.007l5.412 3.125a5.039 5.039 0 01-.778 9.09v-6.368a.87.87 0 00-.437-.761h-.001zm2.251-3.389a7.206 7.206 0 00-.159-.095l-5.352-3.09a.871.871 0 00-.88 0l-6.534 3.772v-2.612a.083.083 0 01.032-.07l5.41-3.121a5.037 5.037 0 017.482 5.216h.001zm-14.155 4.657l-2.263-1.307a.08.08 0 01-.044-.062v-6.249a5.038 5.038 0 018.262-3.869 3.683 3.683 0 00-.159.09l-5.352 3.091a.869.869 0 00-.44.761l-.004 7.543v.002zm1.23-2.65l2.91-1.68 2.91 1.68v3.36l-2.91 1.68-2.91-1.68v-3.36zM73.699 40.829c-3.168 0-5.488-2.368-5.488-5.614s2.32-5.613 5.488-5.613c3.167 0 5.488 2.367 5.488 5.613 0 3.246-2.32 5.614-5.488 5.614zm0-1.615c2.117 0 3.638-1.678 3.638-3.999 0-2.32-1.521-4.014-3.638-4.014s-3.638 1.694-3.638 4.014c0 2.32 1.521 3.998 3.638 3.998zm7.093 4.343V32.8h1.71v1.004c.438-.643 1.363-1.129 2.46-1.129 2.337 0 3.717 1.693 3.717 4.077 0 2.383-1.443 4.077-3.81 4.077-.957 0-1.882-.408-2.368-1.035v3.763h-1.71zm3.889-4.218c1.38 0 2.289-1.035 2.289-2.587 0-1.568-.91-2.587-2.29-2.587s-2.289 1.019-2.289 2.587c0 1.552.91 2.587 2.29 2.587zm5.15-2.587c0-2.133 1.35-4.077 3.858-4.077 2.54 0 3.889 1.85 3.889 3.779 0 .235-.016.564-.032.705H91.51c.157 1.365 1.035 2.211 2.29 2.211 1.035 0 1.772-.486 1.975-1.348l1.615.407c-.423 1.521-1.771 2.4-3.622 2.4-2.508 0-3.935-1.945-3.935-4.077zm1.757-.894h4.17c-.109-1.066-.815-1.835-2.069-1.835-1.082 0-1.85.659-2.101 1.835zm7.579 4.845V32.8h1.709v1.318c.533-.847 1.443-1.443 2.603-1.443 1.678 0 2.854 1.113 2.854 2.822v5.206h-1.709V35.89c0-.988-.612-1.677-1.615-1.677-1.333 0-2.133 1.129-2.133 3.026v3.465h-1.71zm17.188-8.561l-1.662 4.39h3.324l-1.662-4.39zm-5.127 8.561l4.265-10.976h1.709l4.281 10.976h-1.898l-.972-2.587h-4.516l-.972 2.587h-1.897zm11.384 0V29.727h1.835v10.976h-1.835z"
+      ></path>
+      <defs>
+        <filter
+          id="filter0_b_700_21796"
+          width="193.584"
+          height="106.385"
+          x="-17.592"
+          y="-17.592"
+          colorInterpolationFilters="sRGB"
+          filterUnits="userSpaceOnUse"
+        >
+          <feFlood floodOpacity="0" result="BackgroundImageFix"></feFlood>
+          <feGaussianBlur
+            in="BackgroundImageFix"
+            stdDeviation="8.796"
+          ></feGaussianBlur>
+          <feComposite
+            in2="SourceAlpha"
+            operator="in"
+            result="effect1_backgroundBlur_700_21796"
+          ></feComposite>
+          <feBlend
+            in="SourceGraphic"
+            in2="effect1_backgroundBlur_700_21796"
+            result="shape"
+          ></feBlend>
+        </filter>
+        <filter
+          id="filter1_b_700_21796"
+          width="180.784"
+          height="93.585"
+          x="-11.192"
+          y="-10.792"
+          colorInterpolationFilters="sRGB"
+          filterUnits="userSpaceOnUse"
+        >
+          <feFlood floodOpacity="0" result="BackgroundImageFix"></feFlood>
+          <feGaussianBlur
+            in="BackgroundImageFix"
+            stdDeviation="8.796"
+          ></feGaussianBlur>
+          <feComposite
+            in2="SourceAlpha"
+            operator="in"
+            result="effect1_backgroundBlur_700_21796"
+          ></feComposite>
+          <feBlend
+            in="SourceGraphic"
+            in2="effect1_backgroundBlur_700_21796"
+            result="shape"
+          ></feBlend>
+        </filter>
+        <linearGradient
+          id="paint0_linear_700_21796"
+          x1="79.2"
+          x2="96.34"
+          y1="0"
+          y2="82.417"
+          gradientUnits="userSpaceOnUse"
+        >
+          <stop stopColor="#BF94FF"></stop>
+          <stop offset="1" stopColor="#735999"></stop>
+        </linearGradient>
+        <linearGradient
+          id="paint1_linear_700_21796"
+          x1="27.812"
+          x2="67.403"
+          y1="8.517"
+          y2="135.666"
+          gradientUnits="userSpaceOnUse"
+        >
+          <stop stopColor="#BF94FF"></stop>
+          <stop offset="1" stopColor="#735999" stopOpacity="0"></stop>
+        </linearGradient>
+      </defs>
+    </svg>
+  );
+}
