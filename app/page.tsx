@@ -1,15 +1,15 @@
-import Header from "@/components/ttmm/homepage/header"
-import Hero from "@/components/ttmm/homepage/hero"
-import Insights from "@/components/ttmm/homepage/insights"
-import TransactionDetails from "@/components/ttmm/homepage/transactionDetails/transaction-details"
+import Link from "next/link"
 
 export default function Home() {
   return (
-    <div className={"max-w-xl mx-auto h-screen my-4"}>
-      <Header />
-      <Hero />
-      <Insights />
-      <TransactionDetails />
+    <div className={"flex items-center justify-center p-20"}>
+      <ul>
+        <li>
+          <Link href={"/ttmm"}>
+            <p>TTMM</p>
+          </Link>
+        </li>
+      </ul>
     </div>
   )
 }
